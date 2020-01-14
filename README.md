@@ -1,5 +1,5 @@
 # wiz-ui-test
-## Booking Flow
+## Booking Flow problem statement
 
 Build a UI to get the list of shipping schedules possible using *Get Schedules*. You can use dummy values in the request to get the schedules list. When a schedule is selected, use the *Get Fare estimates* API and *Create a new booking* API to create a booking flow. Use the xd link provided below to design the UI.
 
